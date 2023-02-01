@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdGameWindowsForm", "BirdGameWindowsForm\BirdGameWindowsForm.csproj", "{0273A95A-FE47-47D5-A952-26F81AF4003D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0273A95A-FE47-47D5-A952-26F81AF4003D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0273A95A-FE47-47D5-A952-26F81AF4003D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0273A95A-FE47-47D5-A952-26F81AF4003D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0273A95A-FE47-47D5-A952-26F81AF4003D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60162652-EE00-4CCB-A535-C676E3CE6623}
+	EndGlobalSection
+EndGlobal

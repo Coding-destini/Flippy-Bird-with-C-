@@ -1,0 +1,11 @@
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\bin\Debug\BirdGameWindowsForm.exe.config
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\bin\Debug\BirdGameWindowsForm.exe
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\bin\Debug\BirdGameWindowsForm.pdb
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\obj\Debug\BirdGameWindowsForm.csproj.AssemblyReference.cache
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\obj\Debug\BirdGameWindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\obj\Debug\BirdGameWindowsForm.Form1.resources
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\obj\Debug\BirdGameWindowsForm.Properties.Resources.resources
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\obj\Debug\BirdGameWindowsForm.csproj.GenerateResource.cache
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\obj\Debug\BirdGameWindowsForm.csproj.CoreCompileInputs.cache
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\obj\Debug\BirdGameWindowsForm.exe
+D:\C#_VB\BirdGameWindowsForm\BirdGameWindowsForm\obj\Debug\BirdGameWindowsForm.pdb
